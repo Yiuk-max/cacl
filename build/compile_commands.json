@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ubuntu/Desktop/cacl/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/cacl.dir/div.cpp.o -c /home/ubuntu/Desktop/cacl/div.cpp",
+  "file": "/home/ubuntu/Desktop/cacl/div.cpp",
+  "output": "CMakeFiles/cacl.dir/div.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/Desktop/cacl/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/cacl.dir/add.cpp.o -c /home/ubuntu/Desktop/cacl/add.cpp",
+  "file": "/home/ubuntu/Desktop/cacl/add.cpp",
+  "output": "CMakeFiles/cacl.dir/add.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/Desktop/cacl/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/cacl.dir/main.cpp.o -c /home/ubuntu/Desktop/cacl/main.cpp",
+  "file": "/home/ubuntu/Desktop/cacl/main.cpp",
+  "output": "CMakeFiles/cacl.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/Desktop/cacl/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/cacl.dir/mult.cpp.o -c /home/ubuntu/Desktop/cacl/mult.cpp",
+  "file": "/home/ubuntu/Desktop/cacl/mult.cpp",
+  "output": "CMakeFiles/cacl.dir/mult.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/Desktop/cacl/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/cacl.dir/sub.cpp.o -c /home/ubuntu/Desktop/cacl/sub.cpp",
+  "file": "/home/ubuntu/Desktop/cacl/sub.cpp",
+  "output": "CMakeFiles/cacl.dir/sub.cpp.o"
+}
+]
